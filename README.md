@@ -40,16 +40,17 @@ Dockerが起動していることが前提条件
 APIにリクエストを投げる
 
 - ChatGTPに質問を行う
-localhost:8002/chatGPT
+`localhost:8002/chatGPT`
 
 - FITraderのロールを設定したChatGTPに質問を行う
-localhost:8002/fitrader
+`localhost:8002/fitrader`
 
 - FXTraderのロールを設定したChatGTPに質問を行う
-localhost:8002/fxtrader
+`localhost:8002/fxtrader`
 
 - 分類のモデルを設定したChatGTPに質問を行う
-localhost:8002/sentiment
+`localhost:8002/sentiment`
 
 
 # test 用のコード
+`chatGPT_test.py`

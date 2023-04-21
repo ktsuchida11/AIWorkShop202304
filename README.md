@@ -53,4 +53,5 @@ APIにリクエストを投げる
 
 
 # test 用のコード
+
 `chatGPT_test.py`
